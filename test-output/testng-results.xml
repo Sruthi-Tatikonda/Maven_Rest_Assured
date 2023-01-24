@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7593" started-at="2023-01-24T13:30:13 MST" finished-at="2023-01-24T13:30:21 MST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7593" started-at="2023-01-24T13:30:13 MST" finished-at="2023-01-24T13:30:21 MST">
+      <class name="requestMethods.DeleteRequestMethod">
+        <test-method status="PASS" signature="testcase_delete()[pri:0, instance:requestMethods.DeleteRequestMethod@131276c2]" name="testcase_delete" duration-ms="7478" started-at="2023-01-24T13:30:14 MST" finished-at="2023-01-24T13:30:21 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_delete -->
+      </class> <!-- requestMethods.DeleteRequestMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
